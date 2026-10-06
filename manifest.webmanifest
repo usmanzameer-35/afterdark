@@ -1,0 +1,10 @@
+{
+  "name": "Afterdark Arcade",
+  "short_name": "Afterdark",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#c8ff4a",
+  "description": "Twenty premium Halloween party games for adults, playable offline.",
+  "icons": []
+}
